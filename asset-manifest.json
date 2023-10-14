@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-task-3/static/css/main.bacc5cab.css",
+    "main.js": "/React-task-3/static/js/main.76ddb207.js",
+    "index.html": "/React-task-3/index.html",
+    "main.bacc5cab.css.map": "/React-task-3/static/css/main.bacc5cab.css.map",
+    "main.76ddb207.js.map": "/React-task-3/static/js/main.76ddb207.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bacc5cab.css",
+    "static/js/main.76ddb207.js"
+  ]
+}
